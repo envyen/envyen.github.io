@@ -111,56 +111,32 @@ body {
             text-indent: -9999px;
         }
             .twitter {
-<<<<<<< HEAD
                 background-image: url(img/twitter.png);
-=======
-                background-image: url(../img/twitter.png);
->>>>>>> a4630bf55f4947a0c31524d9079f52120e73fe87
                 width: 20px;
                 height: 17px;
             }
             .facebook {
-<<<<<<< HEAD
                 background-image: url(img/facebook.png);
-=======
-                background-image: url(../img/facebook.png);
->>>>>>> a4630bf55f4947a0c31524d9079f52120e73fe87
                 width: 10px;
                 height: 19px;
             }
             .googleplus {
-<<<<<<< HEAD
                 background-image: url(img/googleplus.png);
-=======
-                background-image: url(../img/googleplus.png);
->>>>>>> a4630bf55f4947a0c31524d9079f52120e73fe87
                 width: 21px;
                 height: 19px;
             }
             .dribbble {
-<<<<<<< HEAD
                 background-image: url(img/dribbble.png);
-=======
-                background-image: url(../img/dribbble.png);
->>>>>>> a4630bf55f4947a0c31524d9079f52120e73fe87
                 width: 21px;
                 height: 19px;
             }
             .instagram {
-<<<<<<< HEAD
                 background-image: url(img/instagram.png);
-=======
-                background-image: url(../img/instagram.png);
->>>>>>> a4630bf55f4947a0c31524d9079f52120e73fe87
                 width: 20px;
                 height: 19px;
             }
             .flickr {
-<<<<<<< HEAD
                 background-image: url(img/flickr.png);
-=======
-                background-image: url(../img/flickr.png);
->>>>>>> a4630bf55f4947a0c31524d9079f52120e73fe87
                 width: 20px;
                 height: 9px;
             }
