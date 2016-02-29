@@ -1,2 +1,0 @@
-## Rooting Custom Android 
-
